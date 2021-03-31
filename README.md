@@ -42,10 +42,7 @@ $ cd TeslaClone_ReactJS
 
 ### 🎲 Rodando a Aplicação
 
-```bash![icons8-tesla-128](https://user-images.githubusercontent.com/65872394/111817061-4e128d80-88bc-11eb-9da2-173e8e8c64a0.png)
-![icons8-tesla-240](https://user-images.githubusercontent.com/65872394/111817142-6a162f00-88bc-11eb-83ba-08e5be8b769e.png)
-
-
+```bash
 # Instale as dependências
 $ yarn install
 
