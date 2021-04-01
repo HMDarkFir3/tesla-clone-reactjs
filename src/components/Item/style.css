@@ -1,0 +1,57 @@
+.item {
+  display: flex;
+  justify-content: center;
+
+  height: 100vh;
+  width: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.itemContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 45%;
+}
+
+.itemText {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+
+  margin-top: 20%;
+
+  font-size: 34px;
+  color: #393c41;
+}
+
+.itemTextDescription {
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.itemLowerThird {
+  display: flex;
+  flex-direction: column;
+
+  margin-bottom: 5%;
+}
+
+.itemButtons {
+  display: flex;
+}
+
+.itemExpand {
+  justify-content: center;
+
+  width: 100%;
+
+  margin-top: 3%;
+
+  color: #ffffff;
+}
