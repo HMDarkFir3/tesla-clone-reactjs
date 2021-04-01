@@ -16,10 +16,20 @@
 }
 
 .headerLogo {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
   height: 24px;
   width: 100px;
 
   margin-top: 7px;
+}
+
+.logo {
+  height: 14px;
+  width: 100px;
 }
 
 .headerCenter {
@@ -38,6 +48,8 @@
   display: flex;
 
   justify-content: flex-end;
+
+  margin-right: 15px;
 
   text-transform: uppercase;
 }

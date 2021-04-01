@@ -11,7 +11,7 @@ export default function Header() {
   return (
     <div className="headerContainer">
       <div className="headerLogo">
-        <img src={TeslaLogo} alt="Tesla Logo" />
+        <img className="logo" src={TeslaLogo} alt="Tesla Logo" />
       </div>
 
       <div className="headerCenter">
