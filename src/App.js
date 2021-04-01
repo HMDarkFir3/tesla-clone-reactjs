@@ -15,7 +15,6 @@ import Model3 from "./assets/Desktop-Model3.jpeg";
 import ModelX from "./assets/Desktop-ModelX.jpeg";
 import ModelY from "./assets/Desktop-ModelY.jpeg";
 import SolarPanels from "./assets/Desktop-SolarPanels.jpeg";
-import SolarRoof from "./assets/Desktop-SolarRoof.jpeg";
 
 function App() {
   return (
@@ -25,7 +24,6 @@ function App() {
         <Item
           title="Lowest Cost Solar Panels in America"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={SolarPanels}
           leftBtnTxt="ORDER NOW"
           leftBtnLink=""
@@ -38,7 +36,6 @@ function App() {
         <Item
           title="Model S"
           desc="$69,420"
-          descLink=""
           backgroundImg={ModelS}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -50,7 +47,6 @@ function App() {
         <Item
           title="Model 3"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={Model3}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -62,7 +58,6 @@ function App() {
         <Item
           title="Model X"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={ModelX}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -74,7 +69,6 @@ function App() {
         <Item
           title="Model Y"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={ModelY}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -86,7 +80,6 @@ function App() {
         <Item
           title="Accessories"
           desc="Money-back guarantee"
-          descLink=""
           backgroundImg={Accessories}
           leftBtnTxt="SHOP NOW"
           leftBtnLink=""

@@ -14,7 +14,6 @@ export default function Item(props) {
   const {
     title,
     desc,
-    descLink,
     backgroundImg,
     leftBtnTxt,
     leftBtnLink,
