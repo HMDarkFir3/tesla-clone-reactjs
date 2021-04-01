@@ -1,10 +1,16 @@
+//React
+import React from "react";
+
+//Component
+import Header from "./components/Header";
+
 //Style
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <Header />
     </div>
   );
 }
