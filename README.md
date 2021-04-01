@@ -58,6 +58,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [ReactJS](https://pt-br.reactjs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Material UI](https://material-ui.com)
+- [Material UI Icons](https://material-ui.com/pt/components/material-icons/)
 
 ---
 
