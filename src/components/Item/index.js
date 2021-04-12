@@ -31,7 +31,10 @@ export default function Item(props) {
           <p>{title}</p>
           <div className="itemTextDescription">
             <p>
-              {desc} <a href="">{link}</a>
+              {desc}{" "}
+              <a href="https://tesla-clone-reactjs-79oriff7y-hmdarkfir3.vercel.app">
+                {link}
+              </a>
             </p>
           </div>
         </div>
