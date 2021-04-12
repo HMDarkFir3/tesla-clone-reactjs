@@ -24,7 +24,8 @@ function App() {
       <div className="appItemsContainer">
         <Item
           title="Model S"
-          desc="$69,420"
+          desc="Order Online for"
+          link="Touchless Delivery"
           backgroundImg={ModelS}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -36,7 +37,8 @@ function App() {
 
         <Item
           title="Model 3"
-          desc="Order Online for Touchless Delivery"
+          desc="Order Online for"
+          link="Touchless Delivery"
           backgroundImg={Model3}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -47,7 +49,8 @@ function App() {
 
         <Item
           title="Model X"
-          desc="Order Online for Touchless Delivery"
+          desc="Order Online for"
+          link="Touchless Delivery"
           backgroundImg={ModelX}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -58,7 +61,8 @@ function App() {
 
         <Item
           title="Model Y"
-          desc="Order Online for Touchless Delivery"
+          desc="Order Online for"
+          link="Touchless Delivery"
           backgroundImg={ModelY}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
@@ -91,7 +95,6 @@ function App() {
 
         <Item
           title="Accessories"
-          desc="Money-back guarantee"
           backgroundImg={Accessories}
           leftBtnTxt="SHOP NOW"
           leftBtnLink=""

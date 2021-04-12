@@ -8,12 +8,13 @@ import Button from "../Button";
 import "./style.css";
 
 //Icon
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
+import ExpandMoreIcon from "../../assets/chevron-down-outline.svg";
 
 export default function Item(props) {
   const {
     title,
     desc,
+    link,
     backgroundImg,
     leftBtnTxt,
     leftBtnLink,
@@ -29,12 +30,18 @@ export default function Item(props) {
         <div className="itemText">
           <p>{title}</p>
           <div className="itemTextDescription">
-            <p>{desc}</p>
+            <p>
+              {desc} <a>{link}</a>
+            </p>
           </div>
         </div>
 
         <div className="itemLowerThird">
-          <div className="itemButtons">
+          <div
+            className={
+              first == true ? "itemButtons" : "itemButtonsWithNotFirst"
+            }
+          >
             <Button imp="primary" text={leftBtnTxt} link={leftBtnLink} />
             {twoButtons && (
               <Button imp="secondary" text={rightBtnTxt} link={rightBtnLink} />
@@ -42,7 +49,7 @@ export default function Item(props) {
           </div>
           {first && (
             <div className="itemExpand">
-              <ExpandMoreIcon />
+              <img className="expandIcon" src={ExpandMoreIcon} alt="" />
             </div>
           )}
         </div>
