@@ -39,7 +39,7 @@ export default function Item(props) {
         <div className="itemLowerThird">
           <div
             className={
-              first == true ? "itemButtons" : "itemButtonsWithNotFirst"
+              first === true ? "itemButtons" : "itemButtonsWithNotFirst"
             }
           >
             <Button imp="primary" text={leftBtnTxt} link={leftBtnLink} />
