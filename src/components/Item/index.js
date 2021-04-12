@@ -31,7 +31,7 @@ export default function Item(props) {
           <p>{title}</p>
           <div className="itemTextDescription">
             <p>
-              {desc} <a>{link}</a>
+              {desc} <a href="">{link}</a>
             </p>
           </div>
         </div>
