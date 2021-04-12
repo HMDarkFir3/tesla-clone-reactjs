@@ -8,13 +8,13 @@
 </h1>
 
 <p align="center" >
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hmdarkfir3/TeslaClone_ReactJS" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hmdarkfir3/TeslaClone_Web" />
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/TeslaClone_ReactJS">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/TeslaClone_Web">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/TeslaClone_ReactJS">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/TeslaClone_Web">
   
-  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/TeslaClone_ReactJS">
+  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/TeslaClone_Web">
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
 </p>
@@ -38,10 +38,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/HMDarkFir3/TeslaClone_ReactJS.git
+$ git clone https://github.com/HMDarkFir3/TeslaClone_Web.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd TeslaClone_ReactJS
+$ cd TeslaClone_Web
 ```
 
 ### 🎲 Rodando a Aplicação
