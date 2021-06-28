@@ -8,15 +8,11 @@
 </h1>
 
 <p align="center" >
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hmdarkfir3/TeslaClone_Web" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/TeslaClone_Web?style=for-the-badge">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/TeslaClone_Web">
-  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/TeslaClone_Web">
-  
-  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/TeslaClone_Web">
-  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/TeslaClone_Web?style=for-the-badge">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" />
 </p>
 
 <p align="center" >
