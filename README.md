@@ -8,15 +8,11 @@
 </h1>
 
 <p align="center" >
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hmdarkfir3/TeslaClone_Web" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/TeslaClone_Web?style=for-the-badge">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/TeslaClone_Web">
-  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/TeslaClone_Web">
-  
-  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/TeslaClone_Web">
-  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/TeslaClone_Web?style=for-the-badge">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" />
 </p>
 
 <p align="center" >
@@ -79,10 +75,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🧑 Autor
 
-<img style="border-radius: 50%;" src="https://github.com/HMDarkFir3.png" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="https://github.com/HMDarkFir3.png" width="150px;" alt=""/>
  <h4>Henrique Luís Oliveira Marques</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p>
 
 ---
 
