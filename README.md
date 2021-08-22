@@ -8,9 +8,9 @@
 </h1>
 
 <p align="center" >
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/TeslaClone_Web?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/tesla-clone-web?style=for-the-badge">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/TeslaClone_Web?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/tesla-clone-web?style=for-the-badge">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" />
 </p>
